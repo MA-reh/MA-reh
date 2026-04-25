@@ -138,7 +138,7 @@ Now        ░░░░░░░░████  Angular · TypeScript · PHP ·
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4361ee?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ma-reh.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-050818?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MA-reh)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedayman@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moabdelrazek47@gmail.com)
 
 </div>
 
@@ -150,6 +150,6 @@ Now        ░░░░░░░░████  Angular · TypeScript · PHP ·
 
 **Focused on growth. Building with purpose.**
 
-![Profile Views](https://komainu8.github.io/profile-views-counter/api/?username=MA-reh&color=4361ee&style=for-the-badge)
+![Profile Views](https://visitcount.itsvg.in/api?id=MA-reh&label=Profile%20Views&color=1&icon=0&pretty=true)
 
 </div>

@@ -150,6 +150,6 @@ Now        ░░░░░░░░████  Angular · TypeScript · PHP ·
 
 **Focused on growth. Building with purpose.**
 
-![Profile Views]((https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMA-reh&count_bg=%234361EE&title_bg=%23050818&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false))
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMA-reh&label=Profile%20Views&labelColor=%23050818&countColor=%234361ee)
 
 </div>
